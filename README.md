@@ -35,15 +35,6 @@
 <br>
 <br>
 
-## 💻My project Details
-
- ![My project Details](/assets/abdullah-polok_repos.png "last few project details")
-
-
-</br>
-</br>
-</br>
-
 ## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdullah-polok&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
