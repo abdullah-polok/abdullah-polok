@@ -37,7 +37,7 @@
 
 ## My project Details
 
- [![](./assets/abdullah-polok_repos.png "Abdullah's github banner")](https://abdullah2023.netlify.app/)
+ ![My project Details](/assets/abdullah-polok_repos.png "last few project details")
 
 
 </br>
