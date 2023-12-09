@@ -38,7 +38,7 @@
 
 
 ## 🏆 My GitHub Trophies
----
+
 ![](https://github-profile-trophy.vercel.app/?username=abdullah-polok&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </br>
@@ -46,7 +46,7 @@
 </br>
 
 ## 🌐 My Socials:
----
+
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/polok.jes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allrahmanpolok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahalrahman) 
 
 </br>
@@ -54,7 +54,7 @@
 </br>
 
 ## ✍️ Random Dev Quote
----
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
