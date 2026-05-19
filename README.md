@@ -1,4 +1,4 @@
-[![](./assets/mygitbanner.png "Abdullah's github banner")](https://abdullah2023.netlify.app/)
+[![](https://abdullah-al.netlify.app/)
 
 </br>
 </br>
