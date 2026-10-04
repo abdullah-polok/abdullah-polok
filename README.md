@@ -4,14 +4,15 @@
 </br>
 </br>
 
-# 💫Current Overview:
-- 🔭 I'm currently working  on Web Development 
-- 👯 I'm looking to participate in a hackathon or open-source contribution
-- 📫 I would like to  explore new technology
-- 😄 I have solved a few problems using C++
-- 🌱 I worked as a  social volunteer in the past
+# 💫 Current Overview
 
-- ⚡ I have always liked to talk about information technology
+- 🔭 Currently focused on Cybersecurity and Penetration Testing
+- 🛡️ Developing practical skills in **Cybersecurity, Web Security, and Penetration Testing**
+- 🌱 Currently learning and exploring **Linux, Networking, and Security Tools**
+- 👯 Looking to contribute to **Open Source projects, hackathons, and collaborative projects**
+- 💻 Building practical projects to strengthen my **development and cybersecurity skills**
+- ⚡ I enjoy exploring **Information Technology, Cybersecurity, and emerging technologies**
+
 
 
 </br>
